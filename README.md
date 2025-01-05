@@ -1,9 +1,10 @@
 The Reshaped UI project is built with Next.js, Tailwind CSS and [Reshaped UI](https://reshaped.so).
 
 ## Getting Started
-Clone the repository 
+The first step is to clone the reshaped ui project with a git command.
+
 ```bash
-git clone 
+git clone https://github.com/officialrajdeepsingh/reshaped-ui.git 
 ```
 Next step is to install the Node Package Using Node package manager.
 
