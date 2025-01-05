@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Wrap from "@/components/Wrap";
-import "reshaped/themes/reshaped/theme.css";
 import "./globals.css";
 import { Header } from "@/components/Header";
 
