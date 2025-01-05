@@ -1,3 +1,7 @@
+# Reshaped UI 
+
+![reshaped-ui](.github/reshapedui.png)
+
 The Reshaped UI project is built with Next.js, Tailwind CSS and [Reshaped UI](https://reshaped.so).
 
 ## Getting Started
